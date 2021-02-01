@@ -8,6 +8,7 @@
         <module>quick-silver-common</module>
         <module>quick-silver-service</module>
         <module>quick-silver-api</module>
+        <module>quick-silver-design-pattern</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
